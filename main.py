@@ -6,4 +6,4 @@ a = 5
 b = 7
 print(f"La somme de {a} et {b} est {a+b}")
 
-print("Aujourd'hui, nous sommes le", datetime.date.today())
+print("Bienvenue {name}"- date branch)
